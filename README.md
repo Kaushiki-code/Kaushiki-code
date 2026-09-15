@@ -1,7 +1,8 @@
-![logo](https://github.com/Kaushiki-code/Kaushiki-code/blob/main/Codies..!.jpeg)
+<img width="1646" height="956" alt="ishi" src="https://github.com/user-attachments/assets/e30e0218-1211-4e80-a357-a3d0ae5748a9" />
+
 <h1 align="center">Hi 👋, I'm Kaushiki Singh</h1>
 <h3 align="center">A Passionate Developer from India</h3>
-<img align="right" alt="Coding" height=250 width=350 src="C:\Users\kaush\Downloads\ishi.png"/>
+<!-- <img align="right" alt="Coding" height=250 width=350 src="C:\Users\kaush\Downloads\ishi.png"/> -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushiki-code&label=Profile%20views&color=0e75b6&style=flat" alt="kaushiki-code" /> </p>
